@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1E931-965E-4FD1-A049-4B5620513730}|Enrollment System\\Enrollment System.csproj|c:\\users\\kyle\\desktop\\appsdev final\\enrollment system\\enrollment system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B1E931-965E-4FD1-A049-4B5620513730}|Enrollment System\\Enrollment System.csproj|solutionrelative:enrollment system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1E931-965E-4FD1-A049-4B5620513730}|Enrollment System\\Enrollment System.csproj|C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\enrollment system\\subjectscheduleentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21B1E931-965E-4FD1-A049-4B5620513730}|Enrollment System\\Enrollment System.csproj|solutionrelative:enrollment system\\subjectscheduleentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1E931-965E-4FD1-A049-4B5620513730}|Enrollment System\\Enrollment System.csproj|C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\enrollment system\\studentenrollmententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21B1E931-965E-4FD1-A049-4B5620513730}|Enrollment System\\Enrollment System.csproj|solutionrelative:enrollment system\\studentenrollmententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1E931-965E-4FD1-A049-4B5620513730}|Enrollment System\\Enrollment System.csproj|C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\enrollment system\\subjectscheduleentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B1E931-965E-4FD1-A049-4B5620513730}|Enrollment System\\Enrollment System.csproj|solutionrelative:enrollment system\\subjectscheduleentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1E931-965E-4FD1-A049-4B5620513730}|Enrollment System\\Enrollment System.csproj|C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\enrollment system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21B1E931-965E-4FD1-A049-4B5620513730}|Enrollment System\\Enrollment System.csproj|solutionrelative:enrollment system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B1E931-965E-4FD1-A049-4B5620513730}|Enrollment System\\Enrollment System.csproj|C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\enrollment system\\studentenrollmententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B1E931-965E-4FD1-A049-4B5620513730}|Enrollment System\\Enrollment System.csproj|solutionrelative:enrollment system\\studentenrollmententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubjectScheduleEntry.cs",
+              "DocumentMoniker": "C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\Enrollment System\\SubjectScheduleEntry.cs",
+              "RelativeDocumentMoniker": "Enrollment System\\SubjectScheduleEntry.cs",
+              "ToolTip": "C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\Enrollment System\\SubjectScheduleEntry.cs",
+              "RelativeToolTip": "Enrollment System\\SubjectScheduleEntry.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAIwN4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:47:40.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\Enrollment System\\Form1.cs",
+              "RelativeDocumentMoniker": "Enrollment System\\Form1.cs",
+              "ToolTip": "C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\Enrollment System\\Form1.cs",
+              "RelativeToolTip": "Enrollment System\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:46:21.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\Enrollment System\\Form1.cs",
+              "RelativeDocumentMoniker": "Enrollment System\\Form1.cs",
+              "ToolTip": "C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\Enrollment System\\Form1.cs [Design]",
+              "RelativeToolTip": "Enrollment System\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:51:42.238Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentEnrollmentEntry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\Enrollment System\\StudentEnrollmentEntry.cs",
+              "RelativeDocumentMoniker": "Enrollment System\\StudentEnrollmentEntry.cs",
+              "ToolTip": "C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\Enrollment System\\StudentEnrollmentEntry.cs [Design]",
+              "RelativeToolTip": "Enrollment System\\StudentEnrollmentEntry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:18:04.8Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubjectScheduleEntry.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\Enrollment System\\SubjectScheduleEntry.cs",
+              "RelativeDocumentMoniker": "Enrollment System\\SubjectScheduleEntry.cs",
+              "ToolTip": "C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\Enrollment System\\SubjectScheduleEntry.cs [Design]",
+              "RelativeToolTip": "Enrollment System\\SubjectScheduleEntry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:21:16.906Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentEnrollmentEntry.cs",
+              "DocumentMoniker": "C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\Enrollment System\\StudentEnrollmentEntry.cs",
+              "RelativeDocumentMoniker": "Enrollment System\\StudentEnrollmentEntry.cs",
+              "ToolTip": "C:\\Users\\kyle\\Desktop\\APPSDEV FINAL\\Enrollment System\\Enrollment System\\StudentEnrollmentEntry.cs",
+              "RelativeToolTip": "Enrollment System\\StudentEnrollmentEntry.cs",
+              "ViewState": "AQIAAI4BAAAAAAAAAAAmwKcBAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T01:23:50.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

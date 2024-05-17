@@ -1,0 +1,12 @@
+C:\Users\kyle\Desktop\APPSDEV FINAL\Enrollment System\Enrollment System\bin\Debug\Enrollment System.exe.config
+C:\Users\kyle\Desktop\APPSDEV FINAL\Enrollment System\Enrollment System\bin\Debug\Enrollment System.exe
+C:\Users\kyle\Desktop\APPSDEV FINAL\Enrollment System\Enrollment System\bin\Debug\Enrollment System.pdb
+C:\Users\kyle\Desktop\APPSDEV FINAL\Enrollment System\Enrollment System\obj\Debug\Enrollment System.csproj.AssemblyReference.cache
+C:\Users\kyle\Desktop\APPSDEV FINAL\Enrollment System\Enrollment System\obj\Debug\Enrollment_System.Form1.resources
+C:\Users\kyle\Desktop\APPSDEV FINAL\Enrollment System\Enrollment System\obj\Debug\Enrollment_System.Properties.Resources.resources
+C:\Users\kyle\Desktop\APPSDEV FINAL\Enrollment System\Enrollment System\obj\Debug\Enrollment_System.SubjectScheduleEntry.resources
+C:\Users\kyle\Desktop\APPSDEV FINAL\Enrollment System\Enrollment System\obj\Debug\Enrollment System.csproj.GenerateResource.cache
+C:\Users\kyle\Desktop\APPSDEV FINAL\Enrollment System\Enrollment System\obj\Debug\Enrollment System.csproj.CoreCompileInputs.cache
+C:\Users\kyle\Desktop\APPSDEV FINAL\Enrollment System\Enrollment System\obj\Debug\Enrollment System.exe
+C:\Users\kyle\Desktop\APPSDEV FINAL\Enrollment System\Enrollment System\obj\Debug\Enrollment System.pdb
+C:\Users\kyle\Desktop\APPSDEV FINAL\Enrollment System\Enrollment System\obj\Debug\Enrollment_System.StudentEnrollmentEntry.resources
